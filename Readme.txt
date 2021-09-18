@@ -1,6 +1,2 @@
-Thanks for downloading this template!
-
-Template Name: TheEvent
-Template URL: https://bootstrapmade.com/theevent-conference-event-bootstrap-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+#TheEvent
+< this website are who don't know the event management they directly check out that what they want to take dicisionn
